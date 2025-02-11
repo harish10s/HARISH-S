@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm HARISH S</h1>
-<h3 align="center">ELECTRONICS AND COMMUNICATION ENGINEER</h3>
+<h3 align="center">AWS, DEVOPS ENGINEER</h3>
 	<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish10s&label=Profile%20views&color=0e75b6&style=flat" alt="harish10s" /> </p>
 
-- 🌱 I’m currently learning **JAVA & UI/UX**
+- 🌱 I’m currently learning **AWS AND DEVOPS**
 
 - 📫 How to reach me **harishhari2102002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dV9WyMwU0em5AIyvqZEOYAlP-0b_-R3N/view?usp=drive_link](https://drive.google.com/file/d/1dV9WyMwU0em5AIyvqZEOYAlP-0b_-R3N/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
