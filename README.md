@@ -14,19 +14,17 @@
 </p>
 
 <h3 align="left">AWS:</h3>
-<P>1.AWS Amazon EC2 (Elastic Compute Cloud)
-2.Amazon S3 (Simple Storage Service)
-3.AWS IAM (Identity and Access Management)
-4.AWS Elastic Load Balancing (ELB) & Auto Scaling Group (ASG)
-5.Amazon Route 53 Amazon
-6.VPC (Virtual Private Cloud)
-7.Amazon RDS (Relational Database Service) &
-8.Dynamo DB
-9.AWS CloudWatch & CloudTrail
-10.Amazon SQS (Simple Queue Service) & SNS (Simple
-11.Notification Service)
-12.AWS Lambda & Redshift
-13.Amazon CloudFront
-14.Amazon EBS (Elastic Block Store ) & EFS (Elastic
-File System)
-</P>
+<P>1.AWS Amazon EC2 (Elastic Compute Cloud)</P>
+<P>2.Amazon S3 (Simple Storage Service)</P>
+<P>3.AWS IAM (Identity and Access Management)</P>
+<P>4.AWS Elastic Load Balancing (ELB) & Auto Scaling Group (ASG)</P>
+<P>5.Amazon Route 53 Amazon</P>
+<P>6.VPC (Virtual Private Cloud)</P>
+<P>7.Amazon RDS (Relational Database Service)</P>
+<P>8.Dynamo DB</P>
+<P>9.AWS CloudWatch & CloudTrail</P>
+<P>10.Amazon SQS (Simple Queue Service) & SNS (Simple Notification Service)</P>
+<P>12.AWS Lambda & Redshift</P>
+<P>13.Amazon CloudFront</P>
+<P>14.Amazon EBS (Elastic Block Store ) & EFS (Elastic File System)</P>
+
